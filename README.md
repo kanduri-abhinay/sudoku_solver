@@ -2,7 +2,7 @@
 This sudoku solver can any 9x9 unsolved sudoku puzzles
 
 [![Watch the video](https://img.youtube.com/vi/-Avq4TvnIpk/maxresdefault.jpg)](https://youtu.be/-Avq4TvnIpk)
-
+click on the above image to view the demo..
 
 ## packages used
 

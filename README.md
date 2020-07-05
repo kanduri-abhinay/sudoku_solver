@@ -1,7 +1,7 @@
 # sudoku_solver
 This sudoku solver can any 9x9 unsolved sudoku puzzles
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=-Avq4TvnIpk)
+[![Watch the video](https://i.ytimg.com/vi/-Avq4TvnIpk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB0yh9a1SBBaZ7_a43XYpWvjvFHeA)](https://www.youtube.com/watch?v=-Avq4TvnIpk)
 
 ## packages used
 
